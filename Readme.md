@@ -1,4 +1,4 @@
-# Lab 8 轻量级Web Server工程文件
+# 轻量级Web Server工程文件
 
 轻量的HTTP Web Server
 
